@@ -1,5 +1,5 @@
 # UserInformationViewer
-Get Information About Your Windows System, Such As The Domain, Username, IP Address, RDP Status, CPU, RAM, HDD, SDD, And Windows Version.
+Get Information About Your Windows System, Such As The Domain, Username, IP Address, RDP Status, CPU, RAM, HDD, SSD, And Windows Version.
 
 ### Usage
 * Double Click *__UserInformationViewer.bat__*
